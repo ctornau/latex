@@ -1,4 +1,4 @@
-# latex-ci: Docker-Image for creating LaTeX documents
+# latex: Docker-Image for creating LaTeX documents
 
 ## In General
 
@@ -7,6 +7,10 @@ LaTeX is a programming language for typesetting documents. One of the main featu
 This docker image enables you to use the CI-pipeline provided by GitLab or BitBucket to automatically create a PDF document out of your latex files every time you push them to your Git-repository. 
 
 But you can also use this Docker-Image locally to compile LaTeX-files on your machine.
+
+## On Docker Hub
+
+The image is available at Docker Hub at https://hub.docker.com/r/ctornau/latex .
 
 ## CI-pipeline with Gitlab
 
