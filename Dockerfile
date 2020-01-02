@@ -1,9 +1,7 @@
 FROM ubuntu:latest as base
 
 RUN apt-get update 
-RUN apt-get install -y lsb-release 
-RUN apt-get install -y curl
-RUN apt-get install -y tzdata
+RUN apt-get install -y lsb-release curl tzdata
 
 FROM base as stage1
 
