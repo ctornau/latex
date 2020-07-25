@@ -1,3 +1,4 @@
+LABEL maintainer="tornau@gmail.com"
 FROM ubuntu:latest
 
 RUN apt-get update && \
