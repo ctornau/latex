@@ -56,7 +56,7 @@ Please follow the link https://bitbucket.org/tornau/latex to an example BitBucke
 
 ## Run it locally
 
-Have your LaTeX-files to compile in the following directory ```c:\your\location``` and run the following Docker command
+Have your LaTeX-files to compile in the following directory ```c:\your\location``` and run the following Docker-command
 
 ```docker run -v c:\your\location\:/latex ctornau/latex /bin/sh -c "cd latex && latexmk -pdf main.tex"```
 
