@@ -6,7 +6,7 @@ LaTeX is a document typesetting language. One of the main features of this langu
 
 This docker image enables you to use the CI-pipeline provided by GitLab or BitBucket to automatically create a PDF document out of your latex files every time you push them to your Git-repository. 
 
-But you can also use this Docker-Image locally to compile LaTeX-files on your machine.
+But you can also use this Docker-Image locally to process LaTeX-files on your local machine.
 
 Additionally there is a _German_ article about using this Docker image at http://www.tornau.name/2019/08/continuous-delivery-pipelines-fuer-latex-dokumente/
 
