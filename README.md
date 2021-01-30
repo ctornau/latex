@@ -14,7 +14,7 @@ Additionally there is a _German_ article about using this Docker image at http:/
 
 The image is available at Docker Hub at https://hub.docker.com/r/ctornau/latex .
 
-## CI-pipeline with Gitlab
+## CICD-pipeline with Gitlab
 
 You can use the image the following way on [GitLab](https://www.gitlab.com) by using the file ```.gitlab-ci.yml```:
 
@@ -32,7 +32,7 @@ build:
 
 Please follow the link https://gitlab.com/tornau/latex to a sample GitLab project.
 
-## CI-pipeline with BitBucket
+## CICD-pipeline with BitBucket
 
 If you prefer [BitBucket](https://bitbucket.org) place the following in the file named ```bitbucket-pipelines.yml``` within your repository:
 
