@@ -1,4 +1,4 @@
-# latex: Docker-Image for creating LaTeX documents
+# latex: Docker-Image based on Ubuntu Linux for creating LaTeX documents
 
 ## In General
 
@@ -10,11 +10,11 @@ But you can also use this Docker-Image locally to process LaTeX-files on your lo
 
 Additionally there is a _German_ article about using this Docker image at http://www.tornau.name/2019/08/continuous-delivery-pipelines-fuer-latex-dokumente/
 
-## On Docker Hub
+## Available at Docker Hub
 
 The image is available at Docker Hub at https://hub.docker.com/r/ctornau/latex .
 
-## CICD-pipeline with Gitlab
+## Build Latex-PDF with CICD-pipeline on Gitlab
 
 You can use the image the following way on [GitLab](https://www.gitlab.com) by using the file ```.gitlab-ci.yml```:
 
@@ -32,7 +32,7 @@ build:
 
 Please follow the link https://gitlab.com/tornau/latex to a sample GitLab project.
 
-## CICD-pipeline with BitBucket
+## Build Latex-PDF with CICD-pipeline on BitBucket
 
 If you prefer [BitBucket](https://bitbucket.org) place the following in the file named ```bitbucket-pipelines.yml``` within your repository:
 
