@@ -12,7 +12,7 @@ Additionally there is a _German_ article about using this Docker image at http:/
 
 ## Available at Docker Hub
 
-The image is available at Docker Hub at https://hub.docker.com/r/ctornau/latex .
+The Docker image is available at Docker Hub at https://hub.docker.com/r/ctornau/latex .
 
 ## Build Latex-PDF with CI/CD-pipeline on Gitlab
 
