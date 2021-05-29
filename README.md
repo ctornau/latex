@@ -54,6 +54,10 @@ To have a working BitBucket-pipeline please make sure that the secret variable `
 
 Please follow the link https://bitbucket.org/tornau/latex to an example BitBucket repository.
 
+## Build Latex-PDF with Azure DevOps
+
+To be written
+
 ## Run it locally
 
 Have your LaTeX-files to compile in the following directory ```c:\your\location``` and run the following Docker-command
