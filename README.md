@@ -56,7 +56,7 @@ Please follow the link https://bitbucket.org/tornau/latex to an example BitBucke
 
 ## Build Latex-PDF with Azure DevOps
 
-To be written
+The build can also be run on Azure DevOps
 
 ## Run it locally
 
