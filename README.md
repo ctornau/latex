@@ -1,4 +1,4 @@
-# latex: Docker-Image based on Ubuntu-Linux for creating LaTeX documents
+# Docker-Image based on Ubuntu-Linux for creating LaTeX documents
 
 ## In General
 
