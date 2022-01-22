@@ -4,7 +4,7 @@
 
 LaTeX is a document typesetting language. One of the main features of this language is that the original document is just a plain text file which can be edited with any text editor. This enables us to have these text files under a version control system like Git. You can easily go back to a previous version with the help of the version control system. Additionally, build pipelines came up. There are some services available on the Internet which even give you free build minutes in their pipeline implementation. So, this LaTeX-Docker-images uses these pipelines to enable an auto-generation of the outcoming PDF file with every check-in to the repository. 
 
-This docker image enables you to use the CI-pipeline provided by GitLab or BitBucket to automatically create a PDF document out of your latex files every time you push them to your Git-repository. 
+This docker image enables you to use the CI-pipeline provided by GitLab or BitBucket to automatically create a PDF document out of your LaTeX files every time you push them to your Git-repository. 
 
 But you can also use this Docker-Image locally to process LaTeX-files on your local machine.
 
@@ -14,7 +14,7 @@ Additionally there is a _German_ article about using this Docker image at http:/
 
 The Docker image is available at Docker Hub at https://hub.docker.com/r/ctornau/latex .
 
-## Build Latex-PDF with CI/CD-pipeline on Gitlab
+## Build LaTeX-PDF with CI/CD-pipeline on Gitlab
 
 You can use the image the following way on [GitLab](https://www.gitlab.com) by using the file ```.gitlab-ci.yml```:
 
@@ -32,7 +32,7 @@ build:
 
 Please follow the link https://gitlab.com/tornau/latex to a sample GitLab project.
 
-## Build Latex-PDF with CI/CD-pipeline on BitBucket
+## Build LaTeX-PDF with CI/CD-pipeline on BitBucket
 
 If you prefer [BitBucket](https://bitbucket.org) place the following in the file named ```bitbucket-pipelines.yml``` within your repository:
 
@@ -54,7 +54,7 @@ To have a working BitBucket-pipeline please make sure that the secret variable `
 
 Please follow the link https://bitbucket.org/tornau/latex to an example BitBucket repository.
 
-## Build Latex-PDF with Azure DevOps
+## Build LaTeX-PDF with Azure DevOps
 
 The build can also be run on Azure DevOps. Azure DevOps is available at https://dev.azure.com/ .
 
