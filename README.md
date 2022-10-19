@@ -64,4 +64,9 @@ Have your LaTeX-files to compile in the following directory ```c:\your\location`
 
 ```docker run -v c:\your\location\:/latex ctornau/latex /bin/sh -c "cd latex && latexmk -pdf main.tex"```
 
+## References
+
+- [Docker](https://www.docker.com) 
+
+
 
