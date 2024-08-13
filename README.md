@@ -10,7 +10,7 @@ But you can also use this Docker-Image locally to process LaTeX-files on your lo
 
 Additionally there is a _German_ article about using this Docker image at http://www.tornau.name/2019/08/continuous-delivery-pipelines-fuer-latex-dokumente/
 
-## Image is available @ Docker Hub
+## Image is available at Docker Hub
 
 The Docker image is available at Docker Hub at https://hub.docker.com/r/ctornau/latex . Feel free to use it within your projects.
 
