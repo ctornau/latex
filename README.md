@@ -66,7 +66,8 @@ Have your LaTeX-files to compile in the following directory ```c:\your\location`
 
 ## References
 
-- [Docker](https://www.docker.com) 
+- [Docker](https://www.docker.com)
+- [Docker Hub](https://hub.docker.com/)
 
 
 
