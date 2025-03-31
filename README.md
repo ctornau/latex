@@ -8,7 +8,7 @@ This docker image enables you to use the CI-pipeline provided by GitLab or BitBu
 
 But you can also use this Docker-Image locally to process LaTeX-files on your local machine.
 
-Additionally there is a _German_ article about using this Docker image at http://www.tornau.name/2019/08/continuous-delivery-pipelines-fuer-latex-dokumente/
+Additionally there is a _German_ article about using this Docker image at https://www.tornau.name/2019/08/continuous-delivery-pipelines-fuer-latex-dokumente/
 
 ## Image is available at Docker Hub
 
