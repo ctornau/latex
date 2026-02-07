@@ -34,7 +34,7 @@ Please follow the link https://gitlab.com/tornau/latex to a sample GitLab projec
 
 ## Build LaTeX-PDF with CI/CD-pipeline on BitBucket
 
-If you prefer [BitBucket](https://bitbucket.org) place the following in the file named ```bitbucket-pipelines.yml``` within your repository:
+If you prefer [BitBucket](https://bitbucket.org) , place the following in the file named ```bitbucket-pipelines.yml``` within your repository:
 
 ```yaml
 image: ctornau/latex
