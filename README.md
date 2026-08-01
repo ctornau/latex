@@ -1,4 +1,4 @@
-# Docker-Image based on Ubuntu for creating LaTeX documents, usable within a CI/CD pipeline
+# Docker-Image based on Ubuntu for creating LaTeX documents, designed to be also used within a CI/CD pipeline
 
 ## In General
 
